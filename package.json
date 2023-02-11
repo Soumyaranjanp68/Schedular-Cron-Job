@@ -1,0 +1,22 @@
+{
+  "name": "cron-job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soumyaranjanp68/Cron-Job.git"
+  },
+  "author": "Soumya Ranjan Pradhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soumyaranjanp68/Cron-Job/issues"
+  },
+  "homepage": "https://github.com/Soumyaranjanp68/Cron-Job#readme",
+  "dependencies": {
+    "node-cron": "^3.0.2"
+  }
+}
